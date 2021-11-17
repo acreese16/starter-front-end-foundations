@@ -49,3 +49,8 @@ h3 {
     flex-direction: row;
   }
 }
+
+/* Images to group items */
+main img {
+  width: 100%;
+}
